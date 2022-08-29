@@ -6,13 +6,15 @@ Yo 👋, I'm **Hades** a random dev trying to get better. Currently in an inters
 
 <div>
 <details>
-  <summary>🧑 More about me the random</summary>
+  <summary>🔭 More about me the random</summary>
 
 - 👨‍💻 I’m currently learning **everything** 🤓
 
 - 💬 Ask me about **anything**
 
 - 📫 Reach me out on Discord **Hadès#2061**
+  
+- 🌌 One of my passion that is not dev is space and blackholes !
 
 </details>
   
