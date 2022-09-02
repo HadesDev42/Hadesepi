@@ -12,7 +12,7 @@ Yo 👋, I'm **Hades** a random dev trying to get better. Currently in an inters
 
 - 💬 Ask me about **anything**
 
-- 📫 Reach me out on Discord **Hadès#4269**
+- 📫 Reach me out on Discord **Hadès#0666**
   
 - 🌌 One of my passion that is not dev is space and blackholes !
 
