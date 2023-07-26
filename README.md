@@ -2,17 +2,17 @@
 
 <p>
   
-Yo 👋, I'm **Hades** a random dev trying to get better. Currently in an intership working on an ios app ✨
+Yo 👋, I'm **Hades** a random dev trying to get better. ✨
 
 <div>
 <details>
-  <summary>🔭 More about me the random</summary>
+  <summary>🔭 More about me</summary>
 
 - 👨‍💻 I’m currently learning **everything** 🤓
 
 - 💬 Ask me about **anything**
 
-- 📫 Reach me out on Discord **Hadès#0666**
+- 📫 Reach me out on Discord **@hades42**
   
 - 🌌 One of my passion that is not dev is space and blackholes !
 
