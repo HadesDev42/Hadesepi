@@ -2,7 +2,7 @@
 
 <p>
   
-Yo 👋, I'm **Hades** a random dev trying to get better. ✨
+Hello 👋, I'm **Hades** a random dev trying to get better. ✨
 
 <div>
 <details>
